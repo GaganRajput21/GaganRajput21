@@ -25,11 +25,6 @@ I am a researcher bridging the gap between theoretical **Differential Privacy** 
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GaganRajput21&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganRajput21&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-</div>
-
 <br />
 
 ### 🛠️ Research Stack
