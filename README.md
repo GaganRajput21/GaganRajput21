@@ -42,7 +42,7 @@ graph LR
     G -.->|Updated Weights| B;
     
     style D fill:#f9f,stroke:#333,stroke-width:2px
-    style F fill:#bbf,stroke:#333,stroke-width:2px '''
+    style F fill:#bbf,stroke:#333,stroke-width:2px ,,,
 ---
 
 ### 📚 Selected Publications
