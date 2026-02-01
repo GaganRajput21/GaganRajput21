@@ -1,24 +1,49 @@
-### Hi there, I'm Gagandeep Singh 👋
-**M.Tech Researcher | Privacy-Preserving AI & LLM Security**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=M.Tech+Researcher;Privacy-Preserving+AI;Securing+LLM+Agents;Building+Trustworthy+Systems" alt="Typing SVG" />
+</div>
 
-I am a researcher bridging the gap between theoretical **Differential Privacy** and deployable **AI defense systems**. My work focuses on securing **Large Language Model (LLM) agents** against adversarial attacks using privacy-preserving architectures.
+<div align="center">
+  <a href="https://www.linkedin.com/in/gagandeep-singh-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gagandeep.singh.1290j@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="LINK_TO_YOUR_GOOGLE_SCHOLAR">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+### 👨‍🔬 Research Focus
+I am a researcher bridging the gap between theoretical **Differential Privacy** and deployable **AI defense systems**. My work focuses on securing **Large Language Model (LLM) agents** against adversarial attacks.
+
+- 🔭 **Current Project:** **Fed-OCL** (Federated Anomaly Detection for LLMs)
+- 📄 **Latest Publication:** *A Hybrid Differential Privacy Framework for LBS* (Accepted, EAI Transactions)
+- 🛡️ **Core Interests:** Adversarial Machine Learning, Federated Learning, System Security.
 
 ---
 
-### 🔭 Current Research
-- **Fed-OCL (Federated Anomaly Detection):** A privacy-preserving framework to defend LLM agents against Prompt Injection without exposing user queries. *(Targeting CCS 2026)*
-- **Location Privacy:** Hybrid Differential Privacy/k-Anonymity frameworks for geospatial data. *(Accepted at EAI Transactions)*
-- **Secure Aggregation:** Implementing custom masking protocols for robust Federated Learning.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GaganRajput21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganRajput21&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="languages graph"  />
+</div>
 
-### 📚 Publications
-- **[Draft]** *Federated Anomaly Detection: Collaborative Prompt Injection Defense without Data Sharing* (2026)
-- **[In Press]** *A Hybrid Differential Privacy Framework for Location-Based Services* (EAI Endorsed Transactions on Security and Safety)
+<br />
 
 ### 🛠️ Research Stack
-- **ML/DL:** PyTorch, TensorFlow, HuggingFace Transformers
-- **Privacy:** Opacus (DP-SGD), IBM Diffprivlib
-- **Federated Learning:** Flower (Flwr), PySyft
-- **Security:** Adversarial Robustness Toolbox (ART)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,kubernetes,azure,git,latex,linux&theme=dark" />
+</div>
 
 ---
-[LinkedIn](https://www.linkedin.com/in/gagandeep-singh-dev/) | [Email](mailto:gagandeep.singh.1290j@gmail.com)
+
+<div align="center">
+  <img src="https://github.com/GaganRajput21/GaganRajput21/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<div align="center">
+  <br />
+  <i>"Security is not a product, but a process." — Bruce Schneier</i>
+</div>
