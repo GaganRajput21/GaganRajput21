@@ -40,7 +40,7 @@ I am a researcher bridging the gap between theoretical **Differential Privacy** 
 ---
 
 <div align="center">
-  <img src="https://github.com/GaganRajput21/GaganRajput21/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/GaganRajput21/GaganRajput21/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <div align="center">
