@@ -43,3 +43,35 @@ graph LR
     
     style D fill:#f9f,stroke:#333,stroke-width:2px
     style F fill:#bbf,stroke:#333,stroke-width:2px
+---
+
+### 📚 Selected Publications
+
+| Status | Title | Focus Area |
+| :--- | :--- | :--- |
+| **[Draft]** | *Federated Anomaly Detection: Collaborative Prompt Injection Defense* | 🛡️ **LLM Security** |
+| **[In Press]** | *A Hybrid Differential Privacy Framework for LBS* | 📍 **Differential Privacy** |
+| **[Submitted]** | *Explainable Anomaly Detection for Secure CI/CD* | 🔍 **XAI / System Security** |
+
+---
+
+### 🛠️ Research Arsenal
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,kubernetes,azure,git,latex,linux&theme=dark" />
+  <br/>
+  <br/>
+  <img src="https://img.shields.io/badge/Privacy-Opacus_(DP)-blue?style=flat-square&logo=security" />
+  <img src="https://img.shields.io/badge/Federated-Flower_(Flwr)-green?style=flat-square&logo=leaf" />
+  <img src="https://img.shields.io/badge/Attacks-Adversarial_Toolbox-red?style=flat-square&logo=target" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GaganRajput21/GaganRajput21/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<div align="center">
+  <br />
+  <i>"Security is not a product, but a process." — Bruce Schneier</i>
+</div>
