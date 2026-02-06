@@ -13,7 +13,7 @@
 ### Published Work ✅
 **"A Hybrid Differential Privacy and k-Anonymity Framework for Enhancing Location Privacy in Location-Based Services"**
 - **Venue**: EAI Endorsed Transactions on Security and Safety (Vol 13, Feb 2026)
-- **DOI**: 10.4108/eetss.9845
+- **DOI**: [10.4108/eetss.9845](https://doi.org/10.4108/eetss.9845)
 - **Strength**: Hybrid approach, validated on real dataset (Geolife)
 - **Impact**: Demonstrates your ability to publish in international journals
 
